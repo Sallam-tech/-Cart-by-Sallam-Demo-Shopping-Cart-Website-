@@ -1,46 +1,44 @@
-# -Cart-by-Sallam-Demo-Shopping-Cart-Website-
-Hey there! 👋
+# Cart by Sallam 🛍️
 
-This is a fun little demo project I built while learning HTML, CSS, and JavaScript. Nothing fancy or production-ready — just me experimenting and practicing web development!
+**Demo Shopping Cart Website** built for fun and learning.  
 
-What it does
+> Just a small project while experimenting with **HTML, CSS, and JavaScript**.  
+> Totally beginner-friendly and not a professional product 😄
 
-Displays 20+ products (phones, laptops, watches, gaming stuff…) with images, names, and prices.
+## What it does
 
-Lets you add products to a cart.
+- Shows 20+ products (phones, laptops, watches, gaming, audio, cameras…) with images, names, and prices.
+- Add products to a cart, view the cart, change quantity, or remove items.
+- Dynamically updates total price in PKR.
+- Search products and filter by category.
+- Light cream → soft blue aesthetic theme.
 
-Lets you view your cart, change quantities, remove items, and see the total price.
+## Live Demo
 
-Uses localStorage so your cart stays even if you refresh the page.
+Check it out here: [https://cartbysalamdemo.netlify.app](https://cartbysalamdemo.netlify.app)
 
-Includes a search bar, categories, and a simple checkout flow (all demo, no real payments).
+## How to run locally
 
-Beginner-friendly UI with a light cream → soft blue gradient theme.
+1. Clone this repo or download the ZIP.
+2. Open `index.htm` in a browser (Chrome recommended).
+3. All pages are static, no server or backend needed.
+4. Start adding products to the cart and have fun! 🎉
 
-Demo
+## Tech Used
 
-Check it out here: https://cartbysalamdemo.netlify.app
+- HTML & CSS (with Bootstrap for basic styling)
+- JavaScript for cart functionality
+- LocalStorage to save your cart across pages
 
-How to run it locally
+## Notes
 
-Download or clone this repo.
+- This is just a **learning/demo project**, so nothing is real (payments, checkout, etc.).
+- Feel free to fork or modify it if you want to experiment yourself!
 
-Open index.htm in any modern browser (Chrome, Firefox, Edge…).
+---
 
-Explore, add items to your cart, and have fun!
-
-Tech & Tools
-
-HTML, CSS, JavaScript
-
-Bootstrap 5 CDN for styling
-
-localStorage to save your cart
-
-Notes
-
-This is purely a learning/demo project — no backend, no real payments.
-
-Perfect for beginners who want to practice JS, DOM manipulation, and basic web layouts.
-
-Contributions aren’t needed — but you can fork and experiment if you like 😄
+Made by **Abdul Salam** | Karachi, Pakistan  
+Email: [abdulsallam.tech@gmail.com](mailto:abdulsallam.tech@gmail.com)  
+GitHub: [Sallam-tech](https://github.com/Sallam-tech)  
+LinkedIn: [Abdul Salam](https://www.linkedin.com/in/abdul-salam-069a06369/)  
+Instagram: [sallam_khan](https://www.instagram.com/sallam_khan/)
